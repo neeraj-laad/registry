@@ -11,7 +11,7 @@ projects:
 #      sparseCheckoutDir: "/test/"
 #      sparseCheckoutDir: "test/"
 #      sparseCheckoutDir: "test"
-      sparseCheckoutDir: "p*"
+      sparseCheckoutDir: "/p*"
 components:
   - container:
       name: runtime
