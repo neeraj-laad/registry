@@ -8,8 +8,8 @@ projects:
   - name: nodejs-starter
     git:
       location: "https://github.com/odo-devfiles/nodejs-ex.git"
-      sparseCheckoutDir: "/test/"
-#      sparseCheckoutDir: "test/"
+#      sparseCheckoutDir: "/test/"
+      sparseCheckoutDir: "test/"
 #      sparseCheckoutDir: "test"
 #      sparseCheckoutDir: "p*"
 components:
